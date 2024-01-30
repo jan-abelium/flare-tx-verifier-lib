@@ -1,4 +1,4 @@
-interface TxVerification {
+export interface TxVerification {
     network: string;
     type: string;
     description: string;
@@ -13,11 +13,8 @@ interface TxVerification {
     warnings: Array<string>;
     messageToSign: string;
 }
-interface TxVerificationParameter {
+export interface TxVerificationParameter {
     name: string;
     value: string;
 }
-
-declare function verify(txHex: string): Promise<TxVerification | null>;
-
-export { type TxVerification, type TxVerificationParameter, verify };
+//# sourceMappingURL=interface.d.ts.map

@@ -1,0 +1,11 @@
+export declare const UNKOWN_NETWORK = "Transaction to unkown network.";
+export declare const FEE_NOT_SET = "Transaction fee not specified. It should be calculated by your wallet.";
+export declare const FUNDS_LOCKED = "Funds will be locked after transfer.";
+export declare const MULTIPLE_RECIPIENTS = "Multiple recipient addresses.";
+export declare const MULTIPLE_SIGNERS = "One or more transaction outputs specify multiple signers.";
+export declare const FUNDS_NOT_RETURNED = "Funds might not be transferred to the signer address.";
+export declare const UNSPENT_AMOUNT_NOT_TO_RECIPIENT = "Unspent amount is not transferred to the recipient.";
+export declare const INVALID_BLOCKCHAIN = "Transaction specifies an invalid blockchain.";
+export declare const INVALID_ASSET = "Transaction specifies an invalid asset.";
+export declare const UNKNOWN_NODEID = "Transaction specifies an unkown node id.";
+//# sourceMappingURL=warning.d.ts.map

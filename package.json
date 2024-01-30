@@ -14,7 +14,7 @@
     "url": "https://github.com/flare-foundation/flare-tx-verifier-lib"
   },
   "scripts": {
-    "build": "tsup",
+    "build": "npx tsc -b",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Flare Network",

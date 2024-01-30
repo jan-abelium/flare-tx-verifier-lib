@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/evm/contract/index.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,YAAY,EAAmB,MAAM,aAAa,CAAC;AAI5D,wBAAsB,eAAe,CACjC,OAAO,EAAE,MAAM,EACf,OAAO,EAAE,MAAM,GAChB,OAAO,CAAC,YAAY,GAAG,IAAI,CAAC,CAM9B;AAED,wBAAsB,eAAe,CACjC,OAAO,EAAE,MAAM,EACf,OAAO,EAAE,MAAM,GAChB,OAAO,CAAC,OAAO,CAAC,CAElB"}
